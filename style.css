@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #7e7272;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid{
+    width: 612px;
+    height: 408px;
+    background: #91865b;
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid img{
+    margin: 1px;
+}
